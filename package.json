@@ -1,0 +1,17 @@
+{
+  "name": "react-native-horizontal-list",
+  "version": "1.0.0",
+  "description": "A simple react native component that implements a horizontal list UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "horizontal-list"
+  ],
+  "author": "kiran",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
