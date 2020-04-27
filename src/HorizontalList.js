@@ -9,7 +9,7 @@ import {
     Alert
 } from 'react-native';
 
-const imageWidth = 127;
+const imageWidth = 120;
 class HorizontalList extends React.Component {
     constructor() {
         super();
